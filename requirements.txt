@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+pulp==3.3.2
+streamlit
+nemosis
+pytest
